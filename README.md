@@ -1,3 +1,2 @@
 # Análise de Dados Usando o Classificador Naive Bayes Um Estudo de Caso
--------------------------------------------------------------------------
-Classificando Comentários tóxicos com o classificador Naive Bayes.
+Este projeto tem como objetivo aprimorar a moderação em plataformas digitais, identificando comentários ofensivos entre uma grande variedade de usuários. Utilizei dados coletados no Kaggle, composto por 159.571 comentários, cada comentário é acompanhado de rótulos que indicam a presença de diferentes tipos de conteúdo ofensivo. A análise visa classificar os comentários como ofensivos ou não, melhorando assim os critérios de banimento em sites e aplicativos.
